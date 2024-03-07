@@ -1,5 +1,7 @@
 # Currency Converter
 
+[Visit the website](https://currencyconverter-johnson.netlify.app/)
+
 This is a simple currency converter web application that allows users to convert between different currencies using real-time exchange rates.
 
 ## Features
